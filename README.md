@@ -1,8 +1,8 @@
 # ECU Simulator over CAN using STM32, Arduino Uno, MCP2515, and Potentiometer
 
 ### Project Members
-Ghoorah Hemshini
-Boodhram Ritviksingh
+- Ghoorah Hemshini
+- Boodhram Ritviksingh
 
 ## Authors Contribution
 This project was developed as a collaborative effort. Both contributors were equally involved in hardware integration, software development, debugging, and system testing.
